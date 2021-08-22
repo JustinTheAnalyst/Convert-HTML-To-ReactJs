@@ -12,12 +12,12 @@ class Footer extends Component {
             <div class="container">
                <div class="footer-top footer-padding">
                    <div class="row justify-content-center">
-                       <div class="col-lg-6">
+                       <div class="col-lg-12">
                             <div class="footer-top-cap text-center">
                                 <img src="assets/img/logo/logo2_footer.png" alt="" />
-                                <span><a href="#">hireme@portfolio.com</a></span>
-                                <p>221B Baker Street, Post office Box 353 </p>
-                                <p>Park Road, USA - 215431</p>
+                                <span><a href="#">support@waikatowebdesign.com</a></span>
+                                <p>47A Galloway Street, Hamilton East, Hamilton 3216 </p>
+                                <p>New Zealand</p>
                             </div>
                        </div>
                    </div>
