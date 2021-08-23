@@ -48,7 +48,7 @@ class Home extends Component {
                     <h3>Any Type Of Query<br></br> & Discussion.</h3>
                     
                    <div class="send-cv">
-                        <a href="#">hire@colorlib.com</a>
+                        <a href="#">support@waikatowebdesign.com</a>
                         <i class="ti-arrow-right"></i>
                    </div>
                 </div>
